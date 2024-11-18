@@ -1,7 +1,3 @@
-Want a crazy good website? Let's Discuss!
-
-GPRM
-
 Donate us
 ◄ Go Back
 Your Awesome Profile is ready !
