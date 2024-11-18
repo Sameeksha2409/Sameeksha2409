@@ -28,12 +28,3 @@ JavaScript C++ Python
 
 
 
-
-What to Do Next ? : 
-Copy this Code and Paste it into your GitHub ReadMe file.
-
-Hey👋, Can you help us to grow by sharing?
-
-Feedback
-itsvgin@gmail.com
-</> & Crafted with 💛 Vishwa Gaurav
