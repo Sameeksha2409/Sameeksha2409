@@ -1,16 +1,35 @@
-## Hi there 👋
+Want a crazy good website? Let's Discuss!
 
-<!--
-**Sameeksha2409/Sameeksha2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GPRM
 
-Here are some ideas to get you started:
+Donate us
+◄ Go Back
+Additional Stuffs to add
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Theme:
+radical
+Border
+Background
+please wait for images to load after changing any values
+
+Add GitHub Trophies
+
+Color:
+cyan
+Icon:
+default
+
+Add Visitors Count
+
+Theme:
+radical
+Layout- horizontal
+Add Random Dev Quotes
+
+Theme:
+dark
+Add Top Contributed Repo List
+
+6 / 6Feedback
+itsvgin@gmail.com
+</> & Crafted with 💛 Vishwa Gaurav
