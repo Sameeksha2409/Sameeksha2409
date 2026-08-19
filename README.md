@@ -1,26 +1,30 @@
-Donate us
-◄ Go Back
-Your Awesome Profile is ready !
+# Hi, I'm Sameeksha 👋
 
-Copy Code
-Download Markdown File
-Create New
-Need help regarding this? Click here to watch Video.
-PREVIEW
+🎓 Computer & Communication Engineering Student  
+💻 Interested in Java and Web Development  
+🌱 Currently learning and building projects  
+🇯🇵 Learning Japanese  
 
-💫 About Me:
-🔭 I’m currently working on Java
-🤝 I’m looking for help with DS
-🌱 I’m currently learning Java, C++, DS
+## About Me
 
-💻 Tech Stack:
-JavaScript C++ Python
+I'm a Computer and Communication Engineering student interested in software development and practical technology projects. I enjoy learning new technologies and applying them through academic and personal projects.
 
-📊 GitHub Stats:
+## Skills
 
+- Java
+- HTML & CSS
+- Microsoft Excel
+- Basic IoT & Embedded Systems
+- Problem-Solving
+- Analytical Thinking
 
+## Projects
 
+- **SOULSCRIPT** – Mental wellness recommendation system based on text input analysis.
+- **StepVolt** – IoT-based piezoelectric energy harvesting project.
+- **Agency Project Cost Estimator** – Machine learning-based project for estimating agency project costs.
 
+## Connect With Me
 
-
-
+- LinkedIn
+- Trailhead
