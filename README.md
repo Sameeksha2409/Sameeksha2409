@@ -26,5 +26,5 @@ I'm a Computer and Communication Engineering student interested in software deve
 
 ## Connect With Me
 
-- LinkedIn
-- Trailhead
+- [LinkedIn](https://www.linkedin.com/in/sameeksha-d-poojary-77525a322)
+- [Trailhead](https://www.salesforce.com/trailblazer/adfpit51qlbuxs8t44)
